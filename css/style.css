@@ -122,7 +122,8 @@
         }
         
         .central-content {
-            width: 50%;
+            width: calc(50% - 60px);
+            margin: 0px 30px
         }
         
         .image-center {
@@ -139,6 +140,10 @@
         
         .right-sidebar {
             width: 25%;
+        }
+        
+        .image-right {
+            background-image: url(../img/img-3.jpg);
         }
         
         .subtitle p {
