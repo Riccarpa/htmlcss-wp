@@ -154,6 +154,8 @@
         
         .image-right {
             background-image: url(../img/img-3.jpg);
+            background-position-y: 50%;
+            background-repeat: no-repeat;
         }
         /* footer */
         
